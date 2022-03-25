@@ -23,3 +23,4 @@ That's my baby! In this project I challenged myself to learn <strong>TypeScript<
 
 ### How to get in touch?
 - EMAIL ME! rudolffonseca@gmail.com
+- LinkedIn: https://www.linkedin.com/in/rudolffonseca/
