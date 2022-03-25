@@ -1,8 +1,12 @@
-# 🇧🇷🇭🇰🇳🇱 Welcome! My name is Rudolf and I'll shortly guide through what I have been doing lately in terms of coding 😉 🇳🇱🇭🇰🇧🇷
+### 🇧🇷🇭🇰🇳🇱 Welcome! My name is Rudolf and I'll shortly guide through what I have been doing lately in terms of coding 😉 🇳🇱🇭🇰🇧🇷
 
-## Where Should I Go? 
-👉🏼 https://github.com/rudolffonseca#:~:text=43.6k-,FabioDiCeglie/Travel%2DGroup%2DProject%2DBack%2DEnd,-Public
-This is a graduation group project
+#### Where Should I Go? 
+👉🏼 https://github.com/FabioDiCeglie/Travel-Group-Project-Back-End
+👉🏼 https://github.com/FabioDiCeglie/Travel-Group-Project-Front-End
+
+This is a graduation group project where we built both the front and backend side using: HTML, CSS, JS, React, Redux, Axios, Express, Sequelize and PostgreSQL.
+
+
 
 - 🔭 I’m currently working on ...studying @ https://www.codaisseur.com
 - 🌱 I’m currently learning ...Full Stack JavaScript Development
