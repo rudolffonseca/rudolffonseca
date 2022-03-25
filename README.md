@@ -4,13 +4,13 @@
 👉🏼 https://github.com/FabioDiCeglie/Travel-Group-Project-Back-End <br />
 👉🏼 https://github.com/FabioDiCeglie/Travel-Group-Project-Front-End
 
-This is a graduation group project where we built both the front and backend side using: HTML, CSS, JS, React, Redux, Axios, Express, Sequelize and PostgreSQL. Basically the idea was to create a game like app where a city is randomly offered to the user who can get information about the destination (done by the use of external APIs) and add her/his own comments and images.
+This is a graduation group project where we built both the front and backend side using: <strong>HTML, CSS, JS, React, Redux, Axios, Express, Sequelize and PostgreSQL</strong>. Basically the idea was to create a game like app where a city is randomly offered to the user who can get information about the destination (done by the use of external APIs) and add her/his own comments and images.
 
 ### WoW! Customer Experience
 👉🏼 https://github.com/rudolffonseca/wow-ces-customer
 👉🏼 https://github.com/rudolffonseca/wow-ces-server
 
-That's my baby! In this project I challenged myself to learn <strong>TypeScript</strong>
+That's my baby! In this project I challenged myself to learn <strong>TypeScript</strong> and <strong>GraphQL</strong>
 
 
 
