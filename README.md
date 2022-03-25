@@ -1,8 +1,8 @@
-### Hi there 👋
+# 🇧🇷🇭🇰🇳🇱 Welcome! My name is Rudolf and I'll shortly guide through what I have been doing lately in terms of coding 😉 🇳🇱🇭🇰🇧🇷
 
-**rudolffonseca/rudolffonseca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Where Should I Go? 
+👉🏼 https://github.com/rudolffonseca#:~:text=43.6k-,FabioDiCeglie/Travel%2DGroup%2DProject%2DBack%2DEnd,-Public
+This is a graduation group project
 
 - 🔭 I’m currently working on ...studying @ https://www.codaisseur.com
 - 🌱 I’m currently learning ...Full Stack JavaScript Development
