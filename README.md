@@ -12,6 +12,11 @@ This is a graduation group project where we built both the front and backend sid
 
 That's my baby! In this project I challenged myself to learn <strong>TypeScript</strong> and <strong>GraphQL</strong>. The project was ambitious and the result at least in terms of learning was quite satisfying. The main idea of the app is to create a plataform to access Customer Services both from the customer side and from company side. As a customer you can follow your questions (or tickets) state and as a company you have full control of the whole process and you can generate useful data. The technologies used were: <strong>React, Redux, GraphQL, TypeScript, Apollo-Express, Axios, Sequelize, PostgreSQL.</strong>
 
+### freeCodeCamp.org
+👉🏼 https://github.com/rudolffonseca/freecodecamp
+
+I have done some freeCodeCamp.org modules some time ago. Here are de results of modules exercises.
+<a href="https://rudolffonseca.github.io/freecodecamp/personal-portifolio/personal-portifolio.html"> simple portifolio page </a>
 
 ### But... Who am I? 🤔🤔🤔
 - 🤓 I am a web developer
